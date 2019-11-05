@@ -1,0 +1,16 @@
+{
+    "name": "zeroone/thinkphp-sso",
+    "description": "sso for thinkphp6",
+    "type": "library",
+    "require": {
+        "topthink/framework": "6.0.*-dev"
+    },
+    "license": "Apache",
+    "authors": [
+        {
+            "name": "zeroone",
+            "email": "858338339@qq.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
