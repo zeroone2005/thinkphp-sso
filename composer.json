@@ -1,6 +1,7 @@
 {
     "name": "zeroone2005/thinkphp-sso",
     "description": "sso for thinkphp6",
+    "keywords": ["thinkphp", "sso"],
     "type": "library",
     "require": {
         "topthink/framework": "6.0.*-dev"
@@ -12,7 +13,6 @@
             "email": "858338339@qq.com"
         }
     ],
-    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
             "think\\sso\\": "src/sso"
