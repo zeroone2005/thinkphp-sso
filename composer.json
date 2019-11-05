@@ -12,5 +12,10 @@
             "email": "858338339@qq.com"
         }
     ],
-    "minimum-stability": "dev"
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "think\\sso\\": "src/sso"
+        }
+    }
 }
