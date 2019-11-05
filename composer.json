@@ -6,7 +6,7 @@
     "require": {
         "topthink/framework": "6.0.*-dev"
     },
-    "license": "Apache",
+    "license": "Apache-2.0",
     "authors": [
         {
             "name": "zeroone2005",
